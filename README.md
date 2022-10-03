@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project/blob/master/norlab_logo_noir.PNG" />
+  <img src="https://github.com/isabelleysseric/Vehicule-Autonome/blob/main/logo_vaul.png" />
 </p>
 <br/>
 <br/>
