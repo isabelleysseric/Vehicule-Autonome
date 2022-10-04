@@ -14,6 +14,7 @@ Projets du club de Vehicules Autonomes de l'Université Laval (VAUL) en Robotiqu
 [NORLAB](https://norlab.ulaval.ca/) (Laboratoire de recherche)
 &nbsp; • &nbsp;[VAUL](https://www.facebook.com/VehiculeAutonomeUL/) (Facebook)
 &nbsp; • &nbsp;[VAUL](https://vehiculeautonome-ul.com/) (Website)
+&nbsp; • &nbsp;[wiki VAUL](http://wiki.vehiculeautonome-ul.ca/) (wiki)
 &nbsp; • &nbsp;[Véhicule Autonome Université Laval (VAUL)](https://ca.linkedin.com/company/vaul) (LinkedIn)
 &nbsp; • &nbsp;[VAUL](https://teams.microsoft.com/l/channel/19%3a67c70bbfde604e6a834aff1fad56ec09%40thread.tacv2/G%25C3%25A9n%25C3%25A9ral?groupId=f91a2ad6-a5ef-4e18-9b12-c1f6e06c60fb&tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe) (Teams)
 &nbsp; • &nbsp;[Robotique mobile](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) (Cours)
