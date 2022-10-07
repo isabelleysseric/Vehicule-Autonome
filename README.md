@@ -12,7 +12,6 @@ Projets du club de Vehicules Autonomes de l'Université Laval (VAUL) en Robotiqu
 
 
 <p align='center'>
-&nbsp; • &nbsp;[VAUL]() 
 
   <a href="https://norlab.ulaval.ca/">NORLAB</a> (Laboratoire de recherche)
   &nbsp; • &nbsp;<a href="https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile">glo-4001-introduction-a-la-robotique-mobile</a> (Cours) <br/>
